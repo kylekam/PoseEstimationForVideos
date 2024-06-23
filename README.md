@@ -1,1 +1,1 @@
-Sample code to run Google's Mediapipe post estimator on a live video.
+Sample code to run Google's Mediapipe post estimator on a recorded video.
